@@ -1,0 +1,18 @@
+myList = ["The", "earth", "revolves", "around", "sun"]
+>>> myList
+['The', 'earth', 'revolves', 'around', 'sun'] myList[0]
+'The'
+>>> myList[4] 'sun'
+myList[-1] 'sun'
+myList.append(["a", "true"])
+>>> myList
+['Yes', 'The', 'earth', 'revolves', 'around', 'sun', ['a', 'true']] len(myList)
+7
+myList.remove("Yes")
+>>> myList
+['The', 'earth', 'revolves', 'around', 'sun', ['a', 'true'], 'statement', 'for', 'sure'] myList.remove("statement")
+>>> myList
+['The', 'earth', 'revolves', 'around', 'sun', ['a', 'true'], 'for', 'sure'] myList.remove(["a", "true"])
+>>> myList
+['The', 'earth', 'revolves', 'around', 'sun', 'for', 'sure'] myList.pop()
+'sure'
