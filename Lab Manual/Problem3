@@ -1,0 +1,22 @@
+my_string = 'Hello' print(my_string) my_string = "Hello" print(my_string) my_string = '''Hello''' print(my_string)
+my_string = """Hello, welcome to the world of Python"""
+print(my_string)
+
+str1 = 'Hello' str2 ='World!'
+
+# using +
+print('str1 + str2 = ', str1 + str2) # using *
+print('str1 * 3 =', str1 * 3)
+
+s = 'Hello, everybody!' s[0]
+'H' s[:3]
+'Hel' s[2:5]
+'llo'
+
+#OUTPUT:
+Hello
+Hello Hello
+Hello, welcome to
+the world of Python
+
+str1 + str2 = HelloWorld! str1 * 3 = HelloHelloHello 'H'
