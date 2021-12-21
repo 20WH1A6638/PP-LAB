@@ -1,3 +1,6 @@
+#5.Write a program to create, append, and remove lists in python.
+
+
 myList = ["The", "earth", "revolves", "around", "sun"]
 >>> myList
 ['The', 'earth', 'revolves', 'around', 'sun'] myList[0]
