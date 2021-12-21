@@ -1,0 +1,10 @@
+#15.Write a python program to define a module and import a specific function in that module to another program.
+
+
+def add(a, b):
+result = a + b 
+return result
+# import module by renaming it
+
+import math as m
+print("The value of pi is", m.pi)
