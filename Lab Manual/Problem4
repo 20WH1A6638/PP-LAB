@@ -1,3 +1,6 @@
+#Write a python script to print the current date in the following format “Sun May 29 02:26:23 IST 2017”
+
+
 import datetime
 now = datetime.datetime.now()
 print ("Current date and time : ")
