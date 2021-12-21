@@ -1,3 +1,5 @@
+#Write a program to demonstrate different number data types in Python.
+
 a = 5
 print(a, "is of type", type(a)) 
 a = 2.0
