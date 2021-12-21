@@ -1,3 +1,5 @@
+#7.Write a program to demonstrate working with dictionaries in python.
+
 Dictionary Dict = {}
 print("Empty Dictionary: ") print(Dict)
 
